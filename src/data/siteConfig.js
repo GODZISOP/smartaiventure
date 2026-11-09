@@ -24,12 +24,12 @@ export const siteConfig = {
   // ─────────────────────────────────────────────
   // 📞 PHONE, WHATSAPP & EMAIL
   // ─────────────────────────────────────────────
-  phonePrimary:    "(+966) 53 098 7507",   // Top nav display
-  phonePrimaryTel: "+966530987507",         // tel: dial link
-  phoneDirect:     "(+966) 53 098 7507",   // Contact page direct line
-  phoneDirectTel:  "+966530987507",         // tel: dial link
-  whatsappNumber:  "966530987507",          // Numbers only (no + or spaces)
-  whatsappDisplay: "(+966) 53 098 7507",
+  phonePrimary:    "(+966) 53 937 6083",   // Top nav display
+  phonePrimaryTel: "+966539376083",         // tel: dial link
+  phoneDirect:     "(+966) 53 937 6083",   // Contact page direct line
+  phoneDirectTel:  "+966539376083",         // tel: dial link
+  whatsappNumber:  "966539376083",          // Numbers only (no + or spaces)
+  whatsappDisplay: "(+966) 53 937 6083",
   email:           "info@smartaiventuresllc.com",
   website:         "www.smartaiventuresllc.com",
 

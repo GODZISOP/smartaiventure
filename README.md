@@ -8,7 +8,7 @@ Official digital catalog and wholesale procurement portal for **SMART AI VENTURE
 * **Website:** https://www.smartaiventuresllc.com
 * **Primary Contacts:**
   * **Email:** info@smartaiventuresllc.com
-  * **Phone / WhatsApp:** (+966) 53 098 7507
+  * **Phone / WhatsApp:** (+966) 53 937 6083
   * **Operations:** Global Distribution & Wholesale Trade Hub (Middle East & North America)
 
 ## 🛍️ Product Catalog & Collections
